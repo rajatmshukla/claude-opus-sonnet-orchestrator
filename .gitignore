@@ -1,2 +1,34 @@
+# macOS
 .DS_Store
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Dependencies and build output
+node_modules/
+dist/
+build/
+.venv/
+venv/
 __pycache__/
+*.py[cod]
+
+# Logs and temporary files
+*.log
+tmp/
+temp/
+
+# Editor and local tooling files
+/.claude/
+.idea/
+.vscode/
+*.swp
+*.swo
+/Claude-FableMax-SonnetMax
+/Claude-FableMedium-SonnetMax
+/plus
+/plus-max-2-subagents
+/pro
+/pro-max-2-subagents

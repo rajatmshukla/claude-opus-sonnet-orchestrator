@@ -1,0 +1,14 @@
+{
+  "model": "fable",
+  "permissions": {
+    "defaultMode": "default"
+  },
+  "sandbox": {
+    "enabled": true
+  },
+  "env": {
+    "CLAUDE_CODE_SUBAGENT_MODEL": "sonnet",
+    "CLAUDE_CODE_MAX_CONCURRENT_SUBAGENTS": "4",
+    "CLAUDE_CODE_EFFORT_LEVEL": "max"
+  }
+}
