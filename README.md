@@ -42,7 +42,7 @@ Ported from [donvito/codex-astra-luna-orchestrator](https://github.com/donvito/c
 ## Setup
 
 ```sh
-git clone <this-repo> claude-opus-sonnet-orchestrator
+git clone https://github.com/rajatmshukla/claude-opus-sonnet-orchestrator.git
 cd claude-opus-sonnet-orchestrator
 ./setup.sh ../my-project
 ```
